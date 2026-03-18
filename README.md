@@ -9,6 +9,6 @@ $ forge build
 ### Test
 
 ```shell
-$ forge test --match-contract MissingAssetIDValidation -vv --rpc-url[RPC-URL]
+$ forge test --match-contract MissingAssetIDValidation -vv --rpc-url [RPC-URL]
 ```
 
